@@ -4,4 +4,12 @@ node_modules/
 dist/
 build/
 .DS_Store
-*.log 
+*.log
+.next/
+out/
+.env*.local
+*.pem
+.vercel
+.idea/
+*.swp
+*.swo 
